@@ -1,0 +1,24 @@
+body {
+    background-color: rgba(253, 127, 54, 0.829);
+    color: rgb(109, 74, 8);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    
+}
+
+.ornek{
+    width: 1400px;
+    margin:auto 500px auto 0px;
+    }
+.sola-kaydir{
+    float:left;
+    padding:0 50px 20px 0;
+    }
+
+.saga{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:justify;
+    font-size:52;
+    
+
+}
